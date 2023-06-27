@@ -62,6 +62,10 @@ const AgeCalculatorWrapper = styled.div`
     margin: 0 0.3rem;
   }
 
+  input:hover {
+    border: 1px solid #9de5d2;
+  }
+
   .btn {
     background-color: #9de5d2;
     width: 100%;
