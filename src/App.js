@@ -165,7 +165,7 @@ function AgeCalculator() {
   return (
     <AgeCalculatorWrapper>
       <h1>내 나이가 어때서</h1>
-      <p>당신의 만 나이를 계산해드릴게요</p>
+      <p>당신의 만 나이를 계산해 드릴게요</p>
       <img src='/assets/main-img.svg' alt='main-img'/>
       <div className='input-container'>
           <input type="text" value={year} onChange={handleYearChange} placeholder='년도' />
