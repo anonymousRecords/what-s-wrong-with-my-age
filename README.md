@@ -14,8 +14,8 @@
         <td><a href="https://www.figma.com/file/5h9ZqWJGLzzEX7HRQxvQDO/%ED%85%8C%EC%98%A4%EC%9D%98-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-15%EA%B8%B0---11%EC%A1%B0?type=design&node-id=0%3A1&mode=design&t=ayO3HCLaamQOhY8z-1">Figma</a></td>
     </tr>
     <tr>
-        <th>Notion</th>
-        <td><a href="https://open-divan-915.notion.site/387363f1751d4234a8b2f1a68bab136b?pvs=4">Figma</a></td>
+        <th>프로젝트 관련 기록</th>
+        <td><a href="https://open-divan-915.notion.site/387363f1751d4234a8b2f1a68bab136b?pvs=4">Notion</a></td>
     </tr>
 </table>
 
