@@ -20,9 +20,9 @@
 
 body {
   min-height: 100vh;
-  min-height: -webkit-fill-available;
+  min-height: -webkit-stretch;
   min-height: -moz-available;
-  min-height: fill-available;
+  min-height: stretch;
   display : flex;
   justify-content: center;
   background-color: azure;
