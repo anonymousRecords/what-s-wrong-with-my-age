@@ -29,7 +29,7 @@ const AgeCalculatorWrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 6rem 1.8rem;
+  padding: 4rem 1.8rem;
   background-color: white;
 
   h1 {
